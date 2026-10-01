@@ -5,6 +5,7 @@
     "outDir": "./dist",
     "rootDir": "./",
     "strict": false,
+    "noEmitOnError": false,
     "lib": ["DOM", "ES2022"]
   },
   "include": ["app.ts"]
