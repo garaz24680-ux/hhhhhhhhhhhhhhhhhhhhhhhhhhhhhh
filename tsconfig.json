@@ -7,6 +7,6 @@
     "strict": false,
     "lib": ["DOM", "ES2022"]
   },
-  "include": ["**/*.ts"],
+  "include": ["script.ts"],
   "exclude": ["node_modules", "dist"]
 }
